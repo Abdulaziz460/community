@@ -7,7 +7,7 @@ tool github.com/client9/misspell/cmd/misspell
 require (
 	github.com/go-git/go-git/v5 v5.2.0
 	github.com/google/go-github/v32 v32.1.0
-	golang.org/x/mod v0.21.0
+	golang.org/x/mod v0.42.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/enhancements v0.0.0-20250909042128-6733cbdb4766
 )
@@ -32,5 +32,6 @@ require (
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b // indirect
 	golang.org/x/sys v0.0.0-20210112080510-489259a85091 // indirect
+	golang.org/x/text v0.44.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
